@@ -1,2 +1,2 @@
-// Hello World in JS
+// Hello World in JavaScript (JS)
 console.log('Hello, World!');
